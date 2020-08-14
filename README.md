@@ -25,5 +25,5 @@
 - 👯 I’m looking to collaborate on anything! Collaborators are welcome for all my projects.
 - 📫 How to reach me: stefantigro@gmail.com ( yes I know, I made this email when I was young, but hey I own up to it ).
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: I was enrolled in lets say a student's program where I had no knowledge of web development ( half a year of embedded development ) and was told I shouldn't waste my time by the organiser. After 2 months when the program finished I was called by that same organiser because he wanted to make smaller teams to focus on different projects of theirs and I was to be the PHP "lead". A day later I left that program to start work at my current job ( To heck with you organiser! ).
+- ⚡ Fun fact: A gamer by heart!
 

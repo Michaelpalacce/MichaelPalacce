@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### My name is Stefan Genov. Professionally I am a Senior PHP Developer / System Administrator.
+### My name is Stefan Genov. Professionally I am a PHP Developer / System Administrator.
 
 ### I have proficient exprience with PHP, Frontend Stuff ( hooray HTML and CSS ), Javascript, Nodejs, Chef, Cassandra, Python. I have in depth knowledge of the linux system, most notable CentOS.
 

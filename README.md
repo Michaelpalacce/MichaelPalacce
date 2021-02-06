@@ -8,7 +8,7 @@
 
 - https://www.npmjs.com/package/event_request ( NodeJS Web framework )
 
-- https://www.npmjs.com/package/server-emulator ( Check this one out! You can emulate your File System in the browser. You can easily transfer files or watch movies, listen to videos or just browse pictures. It also has a terminal built in so if you install this on a linux machine you can execute commands. All in the browser! )
+- https://www.npmjs.com/package/server-emulator ( Check this one out! You can emulate your File System in the browser. You can easily transfer files or watch movies, listen to music or just browse pictures. It also has a terminal built in so if you install this on a linux machine you can execute commands. All in the browser! )
 
 - https://www.npmjs.com/package/fs-browser
 

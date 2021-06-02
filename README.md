@@ -2,13 +2,15 @@
 
 ### My name is Stefan Genov. Professionally I am a PHP Developer / System Administrator.
 
-### I have proficient exprience with PHP, Frontend Stuff ( hooray HTML and CSS ), Javascript, Nodejs, Chef, Cassandra, Python. I have in depth knowledge of the linux system, most notable CentOS.
+### I have proficient exprience with PHP, Frontend Stuff ( hooray HTML and CSS ), Javascript, Nodejs, Docker, Kubernetes, Ansible, Cassandra and MongoDb. I have in depth knowledge of the linux system, most notable CentOS and Ubuntu.
+
+### I Love, Love, Love working with Docker espescially when it is combined with Kubernetes!
 
 ### Even though professionally I work as a PHP developer I have a passion for Nodejs and have written multiple modules:
 
 - https://www.npmjs.com/package/event_request ( NodeJS Web framework )
 
-- https://www.npmjs.com/package/server-emulator ( Check this one out! You can emulate your File System in the browser. You can easily transfer files or watch movies, listen to music or just browse pictures. It also has a terminal built in so if you install this on a linux machine you can execute commands. All in the browser! )
+- https://www.npmjs.com/package/server-emulator ( Check this one out! You can emulate your File System in the browser. You can easily transfer files or watch movies, listen to music or just browse pictures. All in the browser! )
 
 - https://www.npmjs.com/package/fs-browser
 
@@ -16,16 +18,13 @@
 
 - https://www.npmjs.com/package/er_redis_data_server
 
-***
-***
-***
+### I am also a big fan of ansible and continuously write new ansible roles
 
-- 🔭 I’m currently working on https://github.com/Michaelpalacce/EventRequest ( and plugins for it ), a fast and highly customizable webframework for NodeJS.
-- 🌱 I’m constantly trying to improve my knowledge on any language I know or don't know. 
-- 👯 I’m looking to collaborate on anything! Collaborators are welcome for all my projects.
-- 📫 How to reach me: stefantigro@gmail.com ( yes I know, I made this email when I was young, but hey I own up to it ).
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: A gamer by heart!
+- https://galaxy.ansible.com/michaelpalacce
+
+***
+***
+***
 
 ### Connect with me:
 

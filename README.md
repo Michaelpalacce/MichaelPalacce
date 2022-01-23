@@ -1,30 +1,27 @@
-# Hi there 👋
+# Hi there {PERSON} 👋 
+// if you see {PERSON} then I have not yet achieved Aritficial Intelligence... frick
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=michaelpalacce&label=Views&color=blue&style=plastic" alt="michaelpalacce" />
+</p>
 
-### My name is Stefan Genov. Professionally I am a PHP Developer / System Administrator.
+### My name is Stefan Genov. Professionally I am a Cloud Automation Developer / System Administrator, working @ VMware.
 
-### I have proficient exprience with PHP, Frontend Stuff ( hooray HTML and CSS ), Javascript, Nodejs, Docker, Kubernetes, Ansible, Cassandra and MongoDb. I have in depth knowledge of the linux system, most notable CentOS and Ubuntu.
+I am a really good keyboard typer. I type well, fast, nice, loud ( mechanical keyboard ) and things happen... like 10 % of the time. 
 
-### I Love, Love, Love working with Docker espescially when it is combined with Kubernetes!
+## Recently I have been working on my [HomeLab](https://github.com/Michaelpalacce/HomeLab) :computer: as well as a few other small projects:
 
-### Even though professionally I work as a PHP developer I have a passion for Nodejs and have written multiple modules:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=EventRequest&theme=dracula)](https://github.com/michaelpalacce/EventRequest)
 
-- https://www.npmjs.com/package/event_request ( NodeJS Web framework )
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=Server&theme=dracula)](https://github.com/michaelpalacce/Server)
 
-- https://www.npmjs.com/package/server-emulator ( Check this one out! You can emulate your File System in the browser. You can easily transfer files or watch movies, listen to music or just browse pictures. All in the browser! )
+## My Github Stats
 
-- https://www.npmjs.com/package/fs-browser
+[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelpalacce&theme=dracula)](https://github.com/Michaelpalacce)
 
-- https://www.npmjs.com/package/er_memcached_data_server
-
-- https://www.npmjs.com/package/er_redis_data_server
-
-### I am also a big fan of ansible and continuously write new ansible roles
-
-- https://galaxy.ansible.com/michaelpalacce
-
-***
-***
-***
+## Languages I use
+<a href="https://github.com/michaelpalacce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelpalacce&theme=dracula&hide_langs_below=1" />
+</a>
 
 ### Connect with me:
 

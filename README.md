@@ -16,6 +16,8 @@ I am a really good keyboard typer. I type well, fast, nice, loud ( mechanical ke
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=SimpleSecrets&theme=dracula)](https://github.com/michaelpalacce/SimpleSecrets)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=SimpleSecretsFrontend&theme=dracula)](https://github.com/michaelpalacce/SimpleSecretsFrontend)
+
 ## My Github Stats
 
 [![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelpalacce&theme=dracula)](https://github.com/Michaelpalacce)

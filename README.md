@@ -10,13 +10,14 @@ I am a really good keyboard typer. I type well, fast, nice, loud ( mechanical ke
 
 ## Recently I have been working on my [HomeLab](https://github.com/Michaelpalacce/HomeLab) :computer: as well as a few other small projects:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=HomeLab&theme=dracula)](https://github.com/michaelpalacce/HomeLab)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=EventRequest&theme=dracula)](https://github.com/michaelpalacce/EventRequest)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=Server&theme=dracula)](https://github.com/michaelpalacce/Server)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=SimpleSecrets&theme=dracula)](https://github.com/michaelpalacce/SimpleSecrets)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=SimpleSecretsFrontend&theme=dracula)](https://github.com/michaelpalacce/SimpleSecretsFrontend)
 
 ## My Github Stats
 

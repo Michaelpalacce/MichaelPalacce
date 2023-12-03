@@ -1,6 +1,8 @@
 # Hi there {PERSON} 👋 
 // if you see {PERSON} then something isn't right...
 
+I use Linux btw. I use neovim btw. I use tmux btw. 
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=michaelpalacce&label=Views&color=blue&style=plastic" alt="michaelpalacce" />
 </p>

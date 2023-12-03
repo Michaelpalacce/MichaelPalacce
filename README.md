@@ -17,9 +17,11 @@ I am a really good keyboard typer. I type well, fast, nice, loud ( mechanical ke
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=EventRequest&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/EventRequest)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=goip&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/Server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=goip&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/goip)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=.dotfiles&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/SimpleSecrets)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=.dotfiles&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/.dotfiles)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=NAT&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/NAT)
 
 
 ## My Github Stats

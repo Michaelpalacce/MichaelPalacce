@@ -22,7 +22,7 @@ I am a really good keyboard typer. I type well, fast, nice, loud ( mechanical ke
 
 ## My Github Stats
 
-[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/Michaelpalacce)
+[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michaelpalacce&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/Michaelpalacce)
 
 ## Languages I use
 <a href="https://github.com/michaelpalacce">

@@ -9,7 +9,7 @@
 
 I am a really good keyboard typer. I type well, fast, nice, loud ( mechanical keyboard ) and things happen... like 10 % of the time. 
 
-## Recently I have been working on my [HomeLab](https://github.com/Michaelpalacce/HomeLab) :computer: as well as a few other small projects:
+## Recently I have been working on:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=HomeLab&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/HomeLab)
 

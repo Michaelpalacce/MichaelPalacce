@@ -7,7 +7,7 @@ I use Linux btw. I use neovim btw. I use tmux btw.
   <img src="https://komarev.com/ghpvc/?username=michaelpalacce&label=Views&color=blue&style=plastic" alt="michaelpalacce" />
 </p>
 
-### My name is Stefan Genov. Professionally I am a Cloud Automation Developer / System Administrator, working @ VMware.
+### My name is Stefan Genov. Professionally I am a Cloud Automation Developer / System Administrator, working @ Broadcom.
 
 I am a really good keyboard typer. I type well, fast, nice, loud ( mechanical keyboard ) and things happen... like 10 % of the time. 
 
@@ -15,14 +15,11 @@ I am a really good keyboard typer. I type well, fast, nice, loud ( mechanical ke
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=HomeLab&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/HomeLab)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=EventRequest&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/EventRequest)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=goip&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/goip)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=go-ddns-controller&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/go-ddns-controller)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=.dotfiles&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/.dotfiles)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=NAT&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/NAT)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=goip&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/goip)
 
 ## My Github Stats
 

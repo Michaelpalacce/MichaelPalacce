@@ -19,7 +19,7 @@ I am a really good keyboard typer. I type well, fast, nice, loud ( mechanical ke
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=.dotfiles&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/.dotfiles)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=goip&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/goip)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=go-btva&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/go-btva)
 
 ## My Github Stats
 
@@ -38,12 +38,10 @@ I am a really good keyboard typer. I type well, fast, nice, loud ( mechanical ke
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/Michaelpalacce/PersonalWebsite/master/favicon.ico">][website]
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg">][npm]
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">][telegram]
 
-[website]: https://stefangenov.site/
+[website]: https://sgenov.dev/
 [linkedin]: https://www.linkedin.com/in/stefan-genov-286972a3/
-[facebook]: https://www.facebook.com/stefantigro
 [telegram]: https://t.me/stefantigro
 [npm]: https://www.npmjs.com/~stefantigro

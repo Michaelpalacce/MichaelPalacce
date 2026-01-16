@@ -1,7 +1,6 @@
 # Hi there {PERSON} 👋 
-// if you see {PERSON} then something isn't right...
 
-I use Linux btw. I use neovim btw. I use tmux btw. 
+I use Linux 🐧, NeoVim and TMUX for my [Development Workflow](https://garden.sgenov.dev/Development-Workflow)!
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=michaelpalacce&label=Views&color=blue&style=plastic" alt="michaelpalacce" />
@@ -13,21 +12,21 @@ I am a really good keyboard typer. I type well, fast, nice, loud ( mechanical ke
 
 ## Recently I have been working on:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=HomeLab&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/HomeLab)
+[![Readme Card](https://github-readme-stats-seven-gamma-93.vercel.app/api/pin/?username=michaelpalacce&repo=HomeLab&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/HomeLab)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=go-ddns-controller&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/go-ddns-controller)
+[![Readme Card](https://github-readme-stats-seven-gamma-93.vercel.app/api/pin/?username=michaelpalacce&repo=go-ddns-controller&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/go-ddns-controller)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=.dotfiles&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/.dotfiles)
+[![Readme Card](https://github-readme-stats-seven-gamma-93.vercel.app/api/pin/?username=michaelpalacce&repo=.dotfiles&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/.dotfiles)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelpalacce&repo=go-btva&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/go-btva)
+[![Readme Card](https://github-readme-stats-seven-gamma-93.vercel.app/api/pin/?username=michaelpalacce&repo=go-btva&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/go-btva)
 
 ## My Github Stats
 
-[![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michaelpalacce&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/Michaelpalacce)
+[![Stefan's GitHub stats](https://github-readme-stats-seven-gamma-93.vercel.app/api?username=Michaelpalacce&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/Michaelpalacce)
 
 ## Languages I use
 <a href="https://github.com/michaelpalacce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelpalacce&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats-seven-gamma-93.vercel.app/api/top-langs/?username=michaelpalacce&theme=dracula&hide_langs_below=1" />
 </a>
 
 ## Streak 

@@ -20,6 +20,10 @@ I am a really good keyboard typer. I type well, fast, nice, loud ( mechanical ke
 
 [![Readme Card](https://github-readme-stats-seven-gamma-93.vercel.app/api/pin/?username=michaelpalacce&repo=go-btva&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/go-btva)
 
+[![Readme Card](https://github-readme-stats-seven-gamma-93.vercel.app/api/pin/?username=michaelpalacce&repo=nvim&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/nvim)
+
+[![Readme Card](https://github-readme-stats-seven-gamma-93.vercel.app/api/pin/?username=michaelpalacce&repo=garden&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/michaelpalacce/garden)
+
 ## My Github Stats
 
 [![Stefan's GitHub stats](https://github-readme-stats-seven-gamma-93.vercel.app/api?username=Michaelpalacce&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/Michaelpalacce)

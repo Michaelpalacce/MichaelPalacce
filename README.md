@@ -6,7 +6,7 @@ I use Linux 🐧, NeoVim and TMUX for my [Development Workflow](https://garden.s
   <img src="https://komarev.com/ghpvc/?username=michaelpalacce&label=Views&color=blue&style=plastic" alt="michaelpalacce" />
 </p>
 
-### My name is Stefan Genov. Professionally I am a Cloud Automation Developer / System Administrator, working @ Broadcom.
+### My name is Stefan Genov. Professionally I am a Cloud Automation Developer / System Administrator / Senior Kubernetes Developer, working @ MariaDB 🦭.
 
 I am a really good keyboard typer. I type well, fast, nice, loud ( mechanical keyboard ) and things happen... like 10 % of the time. 
 
